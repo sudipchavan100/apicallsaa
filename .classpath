@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-aop-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-beans-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-boot-2.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-context-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-core-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-expression-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-jcl-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/jackson-core-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/log4j-core-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/slf4j-api-1.7.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/slf4j-site-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-web-5.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/jackson-annotations-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/junit-4.13-rc-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/junit-jupiter-api-5.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-boot-2.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user 1/eclipse-workspace/apicalls/lib/spring-boot-starter-test-2.2.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
